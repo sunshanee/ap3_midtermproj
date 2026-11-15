@@ -1,0 +1,4 @@
+.env
+.git
+*.sql
+test_db.php
